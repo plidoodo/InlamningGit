@@ -10,6 +10,8 @@ public class GuesserGame {
 
 			guesser.start();
 
+      System.exit(0);
+
 	}
 
 }
